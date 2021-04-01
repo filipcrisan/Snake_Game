@@ -1,7 +1,7 @@
 # Snake_Game
-Using Swing toolkit
+Swing toolkit
 
-The game is implemented using JFrame and JPanel. I created this project mainly because I wanted to get acquainted to Java syntax, develop my OOP knowledge and experiment with different frameworks.
+The game is implemented using JFrame and JPanel from the Swing package. I created this project mainly because I wanted to get acquainted to Java syntax, develop my OOP knowledge and experiment with different frameworks.
 
 ## Run
 After you have a version of Java installed, execute the following command:
